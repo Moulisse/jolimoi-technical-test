@@ -14,7 +14,7 @@ describe("Roman Converter", () => {
   });
 
   test("8", async () => {
-    expect(integerToRoman(8)).toBe("IIX");
+    expect(integerToRoman(8)).toBe("VIII");
   });
 
   test("16", async () => {
