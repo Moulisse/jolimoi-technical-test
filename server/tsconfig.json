@@ -12,10 +12,11 @@
     "preserveConstEnums": true,
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
-    "baseUrl": "."
+    "baseUrl": ".",
+    "types": ["jest", "node"]
   },
   "compileOnSave": false,
-  "include": [".src/**/*.ts"],
-  "files": ["index.ts"],
+  "include": ["src/**/*.ts", "**/*.test.ts"],
+  "files": ["src/app.ts"],
   "exclude": ["node_modules", "dist"]
 }
