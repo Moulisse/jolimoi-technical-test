@@ -1,0 +1,16 @@
+{
+  "name": "jolimoi-technical-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moulisse/jolimoi-technical-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moulisse/jolimoi-technical-test/issues"
+  },
+  "homepage": "https://github.com/Moulisse/jolimoi-technical-test#readme"
+}
